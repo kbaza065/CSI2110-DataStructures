@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>dev.bazza</groupId>
+  <artifactId>CSI2110-DataStructures</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20201205193402</lastUpdated>
+  </versioning>
+</metadata>
